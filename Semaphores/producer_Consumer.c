@@ -37,7 +37,7 @@ void main(){
         scanf("%d",&n);
         switch (n)
         {
-        case 1:
+        case 1:<
             if(mutex == 1 && empty != 0) {
                 Producer();
             } else {
